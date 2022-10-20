@@ -1,7 +1,7 @@
 import React from 'react';
 import {Text, View} from 'react-native';
 import ProductRow from './lecture2/ProductRow';
-import ProductTable from './lecture2/ProductTable';
+import ProductTable from './lecture3/ProductTable';
 
 const App: () => Node = () => {
   return <ProductTable>
